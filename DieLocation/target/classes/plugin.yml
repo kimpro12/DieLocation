@@ -1,0 +1,6 @@
+name: Dielocation
+version: '1.0-SNAPSHOT'
+main: me.dielocation.Dielocation
+authors: [ KIM ]
+description: KIM
+api-version: 1.13
